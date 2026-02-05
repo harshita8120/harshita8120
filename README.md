@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**harshita8120/harshita8120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+It's Harshita, a second-year B.tech (IT) undergrad in India. I like building visually-engaging web interfaces and exploring full-stack technologies.
 
-Here are some ideas to get you started:
+#These days I'm focused on:
+- React and JavaScript
+- Learning new skills to improve my tech stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <hr>
+
+#Some Stuff that I built
+- <a src="https://github.com/harshita8120/Roohani"> Roohani</a> - A digital storefront for the Guwahati-based restaurant, Roohani, to showcase its ambiance and culinary offerings.
+
+<hr>
+
+#Fun Facts:
+- I like coffee, but prefer it cold
+- Hobbies: Reading and Traveling

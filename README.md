@@ -1,4 +1,4 @@
-                                                # Hey people 👋
+# Hey people 👋
 
 It's Harshita, a second-year B.tech (IT) undergrad in India. I like building visually-engaging web interfaces and exploring full-stack technologies.
 

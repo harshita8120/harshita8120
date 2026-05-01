@@ -1,4 +1,4 @@
-# Hey people 👋
+                                                # Hey people 👋
 
 It's Harshita, a second-year B.tech (IT) undergrad in India. I like building visually-engaging web interfaces and exploring full-stack technologies.
 
@@ -18,8 +18,3 @@ It's Harshita, a second-year B.tech (IT) undergrad in India. I like building vis
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-
-
-## Fun Facts:
-- I like coffee, but prefer it cold
-- Hobbies: Reading and Traveling

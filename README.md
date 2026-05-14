@@ -3,7 +3,7 @@
 It's Harshita, a second-year B.tech (IT) undergrad in India. I like building visually-engaging web interfaces and exploring full-stack technologies.
 
 ## These days I'm focused on:
-- React and JavaScript
+- React and TypeScript
 - Learning new skills to improve my tech stack
 
 

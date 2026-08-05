@@ -1,6 +1,6 @@
 # Hey people 👋
 
-It's Harshita, a second-year B.tech (IT) undergrad in India. I like building visually-engaging web interfaces and exploring full-stack technologies.
+It's Harshita, a third-year B.tech (IT) undergrad in India. I like building visually-engaging web interfaces and exploring full-stack technologies.
 
 ## These days I'm focused on:
 - MERN stack
@@ -8,8 +8,9 @@ It's Harshita, a second-year B.tech (IT) undergrad in India. I like building vis
 
 
 ## Some Stuff that I built:
-- <a href="https://github.com/harshita8120/Roohani"> Roohani</a> - A digital storefront for the Guwahati-based restaurant, Roohani, to showcase its ambiance and culinary offerings.
-- FileGenie (coming soon!)
+- <a href="https://github.com/harshita8120/Roohani">Roohani</a> - A digital storefront for the Guwahati-based restaurant, Roohani, to showcase its ambiance and culinary offerings.
+- <a href="https://file-genie-frontend.vercel.app">FileGenie</a> - One stop all-type file format converter
+- Eco_Bytes (coming soon!)
 
 ## Tech Suite:
 - Programming Languages:
@@ -27,6 +28,7 @@ It's Harshita, a second-year B.tech (IT) undergrad in India. I like building vis
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 - Databases:
 
@@ -36,10 +38,16 @@ It's Harshita, a second-year B.tech (IT) undergrad in India. I like building vis
 - Deployment:
 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+
 
 - Tools:
 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) 
+
+- Design:
+
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)

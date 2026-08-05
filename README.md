@@ -1,6 +1,6 @@
 # Hey people 👋
 
-It's Harshita, a third-year B.tech (IT) undergrad in India. I like building visually-engaging web interfaces and exploring full-stack technologies.
+It's Harshita, a third-year B.Tech (IT) undergrad in India. I like building visually-engaging web interfaces and exploring full-stack technologies.
 
 ## These days I'm focused on:
 - MERN stack
